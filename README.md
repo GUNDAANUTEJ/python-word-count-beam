@@ -4,22 +4,22 @@ Python word-Count instructions:
 * Navigate to your python-word-count-beam directory in file explorer and open with Powershell as Admin.
 
 * Initially check whether python is installed.
-python --version
+  python --version
 
 * Check whether pip is installed.
-pip --version
+  pip --version
 
 * Upgrading pip to latest version
-python -m pip install --upgrade pip
+  python -m pip install --upgrade pip
 
 * Create an virtual environment in the directory
-python -m venv C:\path\to\directory
+  python -m venv C:\path\to\directory
 
 * To activate virtual environment.
-C:\path\to\directory\Scripts\activate.ps1
+  C:\path\to\directory\Scripts\activate.ps1
 
 * Now, Download and Install Apache BEAM
-python -m pip install apache-beam
+  python -m pip install apache-beam
 
 * Now, create 'wordcount.py' file in the directory. Copy the Code for 'wordcount.py' from this [link](https://github.com/apache/beam/edit/master/sdks/python/apache_beam/examples/wordcount.py) . Paste it in 'wordcount.py' file.
 
