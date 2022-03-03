@@ -1,6 +1,6 @@
 # python-word-count-beam
 
-Python word-Count instructions:
+### Python word-Count instructions:
 * Navigate to your python-word-count-beam directory in file explorer and open with Powershell as Admin.
 
 * Initially check whether python is installed.
